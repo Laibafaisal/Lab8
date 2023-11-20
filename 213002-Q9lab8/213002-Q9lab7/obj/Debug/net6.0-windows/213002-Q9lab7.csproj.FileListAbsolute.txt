@@ -1,0 +1,17 @@
+C:\Users\213002\source\repos\213002-Q9lab7\213002-Q9lab7\bin\Debug\net6.0-windows\213002-Q9lab7.exe
+C:\Users\213002\source\repos\213002-Q9lab7\213002-Q9lab7\bin\Debug\net6.0-windows\213002-Q9lab7.deps.json
+C:\Users\213002\source\repos\213002-Q9lab7\213002-Q9lab7\bin\Debug\net6.0-windows\213002-Q9lab7.runtimeconfig.json
+C:\Users\213002\source\repos\213002-Q9lab7\213002-Q9lab7\bin\Debug\net6.0-windows\213002-Q9lab7.dll
+C:\Users\213002\source\repos\213002-Q9lab7\213002-Q9lab7\bin\Debug\net6.0-windows\213002-Q9lab7.pdb
+C:\Users\213002\source\repos\213002-Q9lab7\213002-Q9lab7\obj\Debug\net6.0-windows\213002-Q9lab7.csproj.AssemblyReference.cache
+C:\Users\213002\source\repos\213002-Q9lab7\213002-Q9lab7\obj\Debug\net6.0-windows\_213002_Q9lab7.Form1.resources
+C:\Users\213002\source\repos\213002-Q9lab7\213002-Q9lab7\obj\Debug\net6.0-windows\213002-Q9lab7.csproj.GenerateResource.cache
+C:\Users\213002\source\repos\213002-Q9lab7\213002-Q9lab7\obj\Debug\net6.0-windows\213002-Q9lab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\213002\source\repos\213002-Q9lab7\213002-Q9lab7\obj\Debug\net6.0-windows\213002-Q9lab7.AssemblyInfoInputs.cache
+C:\Users\213002\source\repos\213002-Q9lab7\213002-Q9lab7\obj\Debug\net6.0-windows\213002-Q9lab7.AssemblyInfo.cs
+C:\Users\213002\source\repos\213002-Q9lab7\213002-Q9lab7\obj\Debug\net6.0-windows\213002-Q9lab7.csproj.CoreCompileInputs.cache
+C:\Users\213002\source\repos\213002-Q9lab7\213002-Q9lab7\obj\Debug\net6.0-windows\213002-Q9lab7.dll
+C:\Users\213002\source\repos\213002-Q9lab7\213002-Q9lab7\obj\Debug\net6.0-windows\refint\213002-Q9lab7.dll
+C:\Users\213002\source\repos\213002-Q9lab7\213002-Q9lab7\obj\Debug\net6.0-windows\213002-Q9lab7.pdb
+C:\Users\213002\source\repos\213002-Q9lab7\213002-Q9lab7\obj\Debug\net6.0-windows\213002-Q9lab7.genruntimeconfig.cache
+C:\Users\213002\source\repos\213002-Q9lab7\213002-Q9lab7\obj\Debug\net6.0-windows\ref\213002-Q9lab7.dll

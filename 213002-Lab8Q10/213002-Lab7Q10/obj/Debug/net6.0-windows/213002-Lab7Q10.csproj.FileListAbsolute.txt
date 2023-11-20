@@ -1,0 +1,17 @@
+C:\Users\213002\source\repos\213002-Lab7Q10\213002-Lab7Q10\bin\Debug\net6.0-windows\213002-Lab7Q10.exe
+C:\Users\213002\source\repos\213002-Lab7Q10\213002-Lab7Q10\bin\Debug\net6.0-windows\213002-Lab7Q10.deps.json
+C:\Users\213002\source\repos\213002-Lab7Q10\213002-Lab7Q10\bin\Debug\net6.0-windows\213002-Lab7Q10.runtimeconfig.json
+C:\Users\213002\source\repos\213002-Lab7Q10\213002-Lab7Q10\bin\Debug\net6.0-windows\213002-Lab7Q10.dll
+C:\Users\213002\source\repos\213002-Lab7Q10\213002-Lab7Q10\bin\Debug\net6.0-windows\213002-Lab7Q10.pdb
+C:\Users\213002\source\repos\213002-Lab7Q10\213002-Lab7Q10\obj\Debug\net6.0-windows\213002-Lab7Q10.csproj.AssemblyReference.cache
+C:\Users\213002\source\repos\213002-Lab7Q10\213002-Lab7Q10\obj\Debug\net6.0-windows\_213002_Lab7Q10.Form1.resources
+C:\Users\213002\source\repos\213002-Lab7Q10\213002-Lab7Q10\obj\Debug\net6.0-windows\213002-Lab7Q10.csproj.GenerateResource.cache
+C:\Users\213002\source\repos\213002-Lab7Q10\213002-Lab7Q10\obj\Debug\net6.0-windows\213002-Lab7Q10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\213002\source\repos\213002-Lab7Q10\213002-Lab7Q10\obj\Debug\net6.0-windows\213002-Lab7Q10.AssemblyInfoInputs.cache
+C:\Users\213002\source\repos\213002-Lab7Q10\213002-Lab7Q10\obj\Debug\net6.0-windows\213002-Lab7Q10.AssemblyInfo.cs
+C:\Users\213002\source\repos\213002-Lab7Q10\213002-Lab7Q10\obj\Debug\net6.0-windows\213002-Lab7Q10.csproj.CoreCompileInputs.cache
+C:\Users\213002\source\repos\213002-Lab7Q10\213002-Lab7Q10\obj\Debug\net6.0-windows\213002-Lab7Q10.dll
+C:\Users\213002\source\repos\213002-Lab7Q10\213002-Lab7Q10\obj\Debug\net6.0-windows\refint\213002-Lab7Q10.dll
+C:\Users\213002\source\repos\213002-Lab7Q10\213002-Lab7Q10\obj\Debug\net6.0-windows\213002-Lab7Q10.pdb
+C:\Users\213002\source\repos\213002-Lab7Q10\213002-Lab7Q10\obj\Debug\net6.0-windows\213002-Lab7Q10.genruntimeconfig.cache
+C:\Users\213002\source\repos\213002-Lab7Q10\213002-Lab7Q10\obj\Debug\net6.0-windows\ref\213002-Lab7Q10.dll

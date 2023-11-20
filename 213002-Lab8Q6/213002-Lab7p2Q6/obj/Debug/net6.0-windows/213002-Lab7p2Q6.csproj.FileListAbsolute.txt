@@ -1,0 +1,33 @@
+C:\Users\213002\source\repos\213002-Lab7p2Q6\213002-Lab7p2Q6\bin\Debug\net6.0-windows\213002-Lab7p2Q6.exe
+C:\Users\213002\source\repos\213002-Lab7p2Q6\213002-Lab7p2Q6\bin\Debug\net6.0-windows\213002-Lab7p2Q6.deps.json
+C:\Users\213002\source\repos\213002-Lab7p2Q6\213002-Lab7p2Q6\bin\Debug\net6.0-windows\213002-Lab7p2Q6.runtimeconfig.json
+C:\Users\213002\source\repos\213002-Lab7p2Q6\213002-Lab7p2Q6\bin\Debug\net6.0-windows\213002-Lab7p2Q6.dll
+C:\Users\213002\source\repos\213002-Lab7p2Q6\213002-Lab7p2Q6\bin\Debug\net6.0-windows\213002-Lab7p2Q6.pdb
+C:\Users\213002\source\repos\213002-Lab7p2Q6\213002-Lab7p2Q6\obj\Debug\net6.0-windows\213002-Lab7p2Q6.csproj.AssemblyReference.cache
+C:\Users\213002\source\repos\213002-Lab7p2Q6\213002-Lab7p2Q6\obj\Debug\net6.0-windows\_213002_Lab7p2Q6.Form1.resources
+C:\Users\213002\source\repos\213002-Lab7p2Q6\213002-Lab7p2Q6\obj\Debug\net6.0-windows\213002-Lab7p2Q6.csproj.GenerateResource.cache
+C:\Users\213002\source\repos\213002-Lab7p2Q6\213002-Lab7p2Q6\obj\Debug\net6.0-windows\213002-Lab7p2Q6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\213002\source\repos\213002-Lab7p2Q6\213002-Lab7p2Q6\obj\Debug\net6.0-windows\213002-Lab7p2Q6.AssemblyInfoInputs.cache
+C:\Users\213002\source\repos\213002-Lab7p2Q6\213002-Lab7p2Q6\obj\Debug\net6.0-windows\213002-Lab7p2Q6.AssemblyInfo.cs
+C:\Users\213002\source\repos\213002-Lab7p2Q6\213002-Lab7p2Q6\obj\Debug\net6.0-windows\213002-Lab7p2Q6.csproj.CoreCompileInputs.cache
+C:\Users\213002\source\repos\213002-Lab7p2Q6\213002-Lab7p2Q6\obj\Debug\net6.0-windows\213002-Lab7p2Q6.dll
+C:\Users\213002\source\repos\213002-Lab7p2Q6\213002-Lab7p2Q6\obj\Debug\net6.0-windows\refint\213002-Lab7p2Q6.dll
+C:\Users\213002\source\repos\213002-Lab7p2Q6\213002-Lab7p2Q6\obj\Debug\net6.0-windows\213002-Lab7p2Q6.pdb
+C:\Users\213002\source\repos\213002-Lab7p2Q6\213002-Lab7p2Q6\obj\Debug\net6.0-windows\213002-Lab7p2Q6.genruntimeconfig.cache
+C:\Users\213002\source\repos\213002-Lab7p2Q6\213002-Lab7p2Q6\obj\Debug\net6.0-windows\ref\213002-Lab7p2Q6.dll
+C:\Users\KH Faisal\source\Lab8\213002-Lab8Q6\213002-Lab7p2Q6\bin\Debug\net6.0-windows\213002-Lab7p2Q6.exe
+C:\Users\KH Faisal\source\Lab8\213002-Lab8Q6\213002-Lab7p2Q6\bin\Debug\net6.0-windows\213002-Lab7p2Q6.deps.json
+C:\Users\KH Faisal\source\Lab8\213002-Lab8Q6\213002-Lab7p2Q6\bin\Debug\net6.0-windows\213002-Lab7p2Q6.runtimeconfig.json
+C:\Users\KH Faisal\source\Lab8\213002-Lab8Q6\213002-Lab7p2Q6\bin\Debug\net6.0-windows\213002-Lab7p2Q6.dll
+C:\Users\KH Faisal\source\Lab8\213002-Lab8Q6\213002-Lab7p2Q6\bin\Debug\net6.0-windows\213002-Lab7p2Q6.pdb
+C:\Users\KH Faisal\source\Lab8\213002-Lab8Q6\213002-Lab7p2Q6\obj\Debug\net6.0-windows\_213002_Lab7p2Q6.Form1.resources
+C:\Users\KH Faisal\source\Lab8\213002-Lab8Q6\213002-Lab7p2Q6\obj\Debug\net6.0-windows\213002-Lab7p2Q6.csproj.GenerateResource.cache
+C:\Users\KH Faisal\source\Lab8\213002-Lab8Q6\213002-Lab7p2Q6\obj\Debug\net6.0-windows\213002-Lab7p2Q6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KH Faisal\source\Lab8\213002-Lab8Q6\213002-Lab7p2Q6\obj\Debug\net6.0-windows\213002-Lab7p2Q6.AssemblyInfoInputs.cache
+C:\Users\KH Faisal\source\Lab8\213002-Lab8Q6\213002-Lab7p2Q6\obj\Debug\net6.0-windows\213002-Lab7p2Q6.AssemblyInfo.cs
+C:\Users\KH Faisal\source\Lab8\213002-Lab8Q6\213002-Lab7p2Q6\obj\Debug\net6.0-windows\213002-Lab7p2Q6.csproj.CoreCompileInputs.cache
+C:\Users\KH Faisal\source\Lab8\213002-Lab8Q6\213002-Lab7p2Q6\obj\Debug\net6.0-windows\213002-Lab7p2Q6.dll
+C:\Users\KH Faisal\source\Lab8\213002-Lab8Q6\213002-Lab7p2Q6\obj\Debug\net6.0-windows\refint\213002-Lab7p2Q6.dll
+C:\Users\KH Faisal\source\Lab8\213002-Lab8Q6\213002-Lab7p2Q6\obj\Debug\net6.0-windows\213002-Lab7p2Q6.pdb
+C:\Users\KH Faisal\source\Lab8\213002-Lab8Q6\213002-Lab7p2Q6\obj\Debug\net6.0-windows\213002-Lab7p2Q6.genruntimeconfig.cache
+C:\Users\KH Faisal\source\Lab8\213002-Lab8Q6\213002-Lab7p2Q6\obj\Debug\net6.0-windows\ref\213002-Lab7p2Q6.dll
